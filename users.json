@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "user@example.com",
+        "password": "contrasenasegura",
+        "first_name": "Santiago",
+        "last_name": "Salgado",
+        "birth_date": "1993-03-19"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "africa@example.com",
+        "password": "contrasenasegura",
+        "first_name": "Africa",
+        "last_name": "Salgado",
+        "birth_date": "1993-03-19"
+    }
+]
